@@ -1,0 +1,14 @@
+Added Component: Designator=R34(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC2_20 Pin=IC2-20
+Added Pin To Net: NetName=NetIC2_20 Pin=R34-1
+Added Net: Name=NetIC2_20
+Added Pin To Net: NetName=NetIC2_98 Pin=IC2-98
+Added Pin To Net: NetName=NetIC2_98 Pin=R34-2
+Added Net: Name=NetIC2_98
+Added Member To Class: ClassName=3.4G Member=Component R34 Resistor - SMD
+Added Room: Name=3.4G

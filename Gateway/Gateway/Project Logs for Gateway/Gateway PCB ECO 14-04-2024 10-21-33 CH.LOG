@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=NetD3_1 Pin=D3-1
+Removed Pin From Net: NetName=NetD3_1 Pin=D3-1
+Removed Pin From Net: NetName=GND Pin=D3-2
+Removed Pin From Net: NetName=GND Pin=D3-2
+Removed Pin From Net: NetName=GND Pin=D4-1
+Removed Pin From Net: NetName=GND Pin=D4-1
+Removed Pin From Net: NetName=NetD4_2 Pin=D4-2
+Removed Pin From Net: NetName=NetD4_2 Pin=D4-2
+Removed Pin From Net: NetName=NetD4_2 Pin=IC2-60
+Removed Pin From Net: NetName=NetD3_1 Pin=IC2-93
+Removed Pin From Net: NetName=NetD3_1 Pin=P1-1
+Removed Pin From Net: NetName=NetD4_2 Pin=P3-1
+Removed Member From Class: ClassName=3.4G Member=D3
+Removed Member From Class: ClassName=3.4G Member=D4
+Added Component: Designator=L(INDC1005X45)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "490-13210-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.kr/product-detail/en/murata-electronics/LXES15AAA1-153/490-13210-1-ND/5843764?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LXES15AAA1-153"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LXES15AAA1-153/Murata%20Electronics%20North%20America/view-part/653473/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L(INDC1005X45)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "490-13210-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.kr/product-detail/en/murata-electronics/LXES15AAA1-153/490-13210-1-ND/5843764?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LXES15AAA1-153"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402 Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LXES15AAA1-153/Murata%20Electronics%20North%20America/view-part/653473/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD3_1 Pin=IC2-60
+Added Pin To Net: NetName=NetD4_2 Pin=IC2-93
+Added Pin To Net: NetName=NetD3_1 Pin=L-1
+Added Pin To Net: NetName=NetD4_2 Pin=L-1
+Added Pin To Net: NetName=GND Pin=L-2
+Added Pin To Net: NetName=GND Pin=L-2
+Added Pin To Net: NetName=NetD4_2 Pin=P1-1
+Added Pin To Net: NetName=NetD3_1 Pin=P3-1
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetIC2_60
+Change Net Name : Old Net Name=NetD4_2 New Net Name=NetIC2_93
+Added Member To Class: ClassName=3.4G Member=Component L LXES15AAA1-153
+Added Member To Class: ClassName=3.4G Member=Component L LXES15AAA1-153
+Added Room: Name=2.MCU
+Added Room: Name=3.4G

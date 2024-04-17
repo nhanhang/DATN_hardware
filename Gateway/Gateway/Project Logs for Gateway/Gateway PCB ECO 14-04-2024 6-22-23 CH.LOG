@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C30
+Change Component Designator: OldDesignator=IC? NewDesignator=IC7
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC30_2
+Added Room: Name=3.4G
