@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C24 Old Footprint=CAP_0402 New Footprint=CAP_0805
+Change Component Footprint: Designator=C28 Old Footprint=CAP_0402 New Footprint=CAP_0805
+Change Component Footprint: Designator=C29 Old Footprint=CAP_0402 New Footprint=CAP_0805
+Added Member To Class: ClassName=3.4G Member=Component L LXES15AAA1-153
+Added Room: Name=1.POWER
+Added Room: Name=2.MCU
+Added Room: Name=3.4G

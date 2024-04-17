@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=STATUS Pin=Q1-1
+Removed Pin From Net: NetName=SIM_PPS Pin=Q2-1
+Change Component Comment : Designator=C3 Old Comment=104 New Comment=10uF
+Change Component Comment : Designator=C10 Old Comment=104 New Comment=22pF
+Change Component Comment : Designator=C11 Old Comment=104 New Comment=22pF
+Change Component Comment : Designator=C12 Old Comment=104 New Comment=22pF
+Change Component Comment : Designator=C2 Old Comment=104 New Comment=100nF
+Change Component Comment : Designator=C4 Old Comment=104 New Comment=100nF
+Change Component Comment : Designator=C9 Old Comment=104 New Comment=100nF
+Change Component Comment : Designator=C5 Old Comment=104 New Comment=100uF
+Change Component Comment : Designator=R7 Old Comment=Resistor - SMD New Comment=0R
+Change Component Comment : Designator=R34 Old Comment=Resistor - SMD New Comment=0R
+Change Component Comment : Designator=R5 Old Comment=Resistor - SMD New Comment=10k
+Change Component Comment : Designator=R6 Old Comment=Resistor - SMD New Comment=10k
+Change Component Comment : Designator=R9 Old Comment=Resistor - SMD New Comment=10k
+Change Component Comment : Designator=R4 Old Comment=Resistor - SMD New Comment=10R
+Change Component Comment : Designator=R15 Old Comment=Resistor - SMD New Comment=22R
+Change Component Comment : Designator=R16 Old Comment=Resistor - SMD New Comment=22R
+Change Component Comment : Designator=R17 Old Comment=Resistor - SMD New Comment=22R
+Added Component: Designator=R35(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R36(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SIM_PPS Pin=R35-1
+Added Pin To Net: NetName=STATUS Pin=R36-1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R36-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R35-2
+Added Net: Name=NetQ2_1
+Added Member To Class: ClassName=3.4G Member=Component R35 330R
+Added Member To Class: ClassName=3.4G Member=Component R36 330R
+Added Room: Name=3.4G

@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=GND Pin=D6-1
+Removed Pin From Net: NetName=NetD6_2 Pin=D6-2
+Removed Member From Class: ClassName=1.POWER Member=D6
+Change Component Footprint: Designator=C13 Old Footprint=CAP_0402 New Footprint=CAP_0805
+Change Component Footprint: Designator=C14 Old Footprint=CAP_0402 New Footprint=CAP_0805
+Change Component Footprint: Designator=C17 Old Footprint=CAP_0402 New Footprint=CAP_0805
+Change Component Footprint: Designator=C18 Old Footprint=CAP_0402 New Footprint=CAP_0805
+Change Component Footprint: Designator=JP3 Old Footprint=JP 1x3 CT New Footprint=JP3
+Change Component Footprint: Designator=J2 Old Footprint=JP2-C1T New Footprint=KF2-5.08
+Change Component Footprint: Designator=JP1 Old Footprint=JP6 New Footprint=Header6
+Change Component Footprint: Designator=JP2 Old Footprint=JP6 New Footprint=Header6
+Change Component Footprint: Designator=R18 Old Footprint=RES-SMD-0101 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R19 Old Footprint=RES-SMD-0101 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R20 Old Footprint=RES-SMD-0101 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R21 Old Footprint=RES-SMD-0101 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R22 Old Footprint=RES-SMD-0101 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R23 Old Footprint=RES-SMD-0101 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R27 Old Footprint=RES-SMD-0101 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R28 Old Footprint=RES-SMD-0101 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R29 Old Footprint=RES-SMD-0101 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R31 Old Footprint=RES-SMD-0101 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R32 Old Footprint=RES-SMD-0101 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R33 Old Footprint=RES-SMD-0101 New Footprint=RES-SMD-0805
+Change Component Comment : Designator=C14 Old Comment=104 New Comment=1uF
+Change Component Comment : Designator=C13 Old Comment=104 New Comment=100nF
+Change Component Comment : Designator=C17 Old Comment=104 New Comment=100nF
+Change Component Comment : Designator=C18 Old Comment=104 New Comment=100nF
+Change Component Comment : Designator=C24 Old Comment=104 New Comment=100nF
+Change Component Comment : Designator=C28 Old Comment=104 New Comment=100nF
+Change Component Comment : Designator=C29 Old Comment=104 New Comment=100nF
+Change Component Comment : Designator=R23 Old Comment=Resistor - SMD New Comment=0.1k
+Change Component Comment : Designator=R33 Old Comment=Resistor - SMD New Comment=1k2
+Change Component Comment : Designator=R20 Old Comment=Resistor - SMD New Comment=1k
+Change Component Comment : Designator=R27 Old Comment=Resistor - SMD New Comment=1k
+Change Component Comment : Designator=R31 Old Comment=Resistor - SMD New Comment=1k
+Change Component Comment : Designator=R32 Old Comment=Resistor - SMD New Comment=1k
+Change Component Comment : Designator=R18 Old Comment=Resistor - SMD New Comment=10k
+Change Component Comment : Designator=R19 Old Comment=Resistor - SMD New Comment=10k
+Change Component Comment : Designator=R21 Old Comment=Resistor - SMD New Comment=10k
+Change Component Comment : Designator=R22 Old Comment=Resistor - SMD New Comment=10k
+Change Component Comment : Designator=R28 Old Comment=Resistor - SMD New Comment=30k
+Change Component Comment : Designator=R29 Old Comment=Resistor - SMD New Comment=100k
+Change component parameters: Designator = "JP3"; Footprint = "JP3"; UniqueID = "\LYGDHOCE\HZVBMBBH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x20P Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIODE_ZENER_SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DIODE-0.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=NetD6_2 Pin=D?-2
+Added Pin To Net: NetName=5V Pin=J1-1
+Added Pin To Net: NetName=NetQ6_2 Pin=R21-1
+Added Pin To Net: NetName=NetQ5_2 Pin=R22-1
+Change Net Name : Old Net Name=NetD6_2 New Net Name=NetD?_2
+Added Member To Class: ClassName=1.POWER Member=Component D? Diode Zener
+Added Member To Class: ClassName=3.4G Member=Component IC2 SIM A7672S
+Added Member To Class: ClassName=3.4G Member=Component L LXES15AAA1-153
+Added Room: Name=2.MCU
+Added Room: Name=3.4G
