@@ -1,5 +1,0 @@
-Change Component Footprint: Designator=C15 Old Footprint=EEFSDE New Footprint=CAP_TANTALUM_3216
-Added Member To Class: ClassName=3.4G Member=Component L LXES15AAA1-153
-Added Room: Name=1.POWER
-Added Room: Name=2.MCU
-Added Room: Name=3.4G
