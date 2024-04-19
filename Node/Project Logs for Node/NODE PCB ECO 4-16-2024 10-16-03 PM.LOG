@@ -1,7 +1,0 @@
-Added Pin To Net: NetName=3V8 Pin=C12-1
-Added Pin To Net: NetName=3V8 Pin=L1-2
-Added Pin To Net: NetName=3V8 Pin=R8-2
-Added Pin To Net: NetName=3V8 Pin=R9-1
-Added Room: Name=1.MCU_NODE
-Added Room: Name=2.POWER_NODE
-Added Room: Name=3.GPS
