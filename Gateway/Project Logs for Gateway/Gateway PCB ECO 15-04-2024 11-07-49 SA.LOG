@@ -1,6 +1,0 @@
-Added Pin To Net: NetName=SCK2 Pin=U2-13
-Added Pin To Net: NetName=SCK Pin=U2-30
-Added Member To Class: ClassName=3.4G Member=Component L LXES15AAA1-153
-Added Member To Class: ClassName=2.MCU Member=Component U3 CH340C
-Added Room: Name=2.MCU
-Added Room: Name=3.4G
