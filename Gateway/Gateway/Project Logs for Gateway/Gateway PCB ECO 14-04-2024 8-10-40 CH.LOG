@@ -1,0 +1,17 @@
+Added Component: Designator=IC1(SOP50P310X90-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "IC Logic Level"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "8-VSSOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "TXB0102DCUR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "User_Description"; Value = "IC TRNSLTR BIDIRECTIONAL US8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TX Pin=IC1-1
+Added Pin To Net: NetName=GND Pin=IC1-2
+Added Pin To Net: NetName=1V8 Pin=IC1-3
+Added Pin To Net: NetName=SIM_RX Pin=IC1-4
+Added Pin To Net: NetName=SIM_TX Pin=IC1-5
+Added Pin To Net: NetName=NetIC1_6 Pin=IC1-6
+Added Pin To Net: NetName=3V3 Pin=IC1-7
+Added Pin To Net: NetName=RX Pin=IC1-8
+Added Member To Class: ClassName=3.4G Member=Component IC1 TXB0102DCUR
